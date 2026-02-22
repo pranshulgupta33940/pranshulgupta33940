@@ -71,9 +71,9 @@ I exist at the intersection of **Data Intelligence** and **Backend Systems**. I 
 
 <div align="center">
   <a href="https://github.com/pranshulgupta33940">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshulgupta33940&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshulgupta33940&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/pranshulgupta33940">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshulgupta33940&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshulgupta33940&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
