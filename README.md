@@ -77,3 +77,16 @@ I exist at the intersection of **Data Intelligence** and **Backend Systems**. I 
     <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pranshulgupta33940&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
+
+<br/>
+
+### 🐍 The GitHub Snake
+*(Eating my contribution graph!)*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranshulgupta33940/pranshulgupta33940/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranshulgupta33940/pranshulgupta33940/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranshulgupta33940/pranshulgupta33940/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
