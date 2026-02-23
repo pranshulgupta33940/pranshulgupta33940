@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranshulgupta33940&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/pranshulgupta">
+  <a href="https://www.linkedin.com/in/pranshul-gupta-2aa30026b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
