@@ -18,38 +18,38 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I exist at the intersection of **Data Intelligence** and **Backend Systems**. I love extracting insights from raw data to build predictive models, while also engineering the high-performance, concurrent C++ systems that make modern infrastructure run fast.
 
-- 🔭 Currently building **Scalable Systems** and training **Machine Learning Models**.
-- 🌱 Deep-diving into **LLMs**, **Network Protocols**, and **Kernel-level optimization**.
-- 💡 **Philosophy:** Data drives decisions, but architecture determines scale. 
+-  Currently building **Scalable Systems** and training **Machine Learning Models**.
+-  Deep-diving into **LLMs**, **Network Protocols**, and **Kernel-level optimization**.
+-  **Philosophy:** Data drives decisions, but architecture determines scale. 
 
 ---
 
-### 🚀 Top Projects
+###  Top Projects
 
-#### 🔒 [Network Packet Analyzer](https://github.com/pranshulgupta33940/Network-Packet-Analyzer)
+####  [Network Packet Analyzer](https://github.com/pranshulgupta33940/Network-Packet-Analyzer)
 > High-performance C++ Deep Packet Inspection (DPI) Engine utilizing multi-threading & lock-free queues to parse TLS SNI natively.
 > 
 > <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B" /> <img src="https://img.shields.io/badge/Multithreading-FCC624?style=flat-square" /> <img src="https://img.shields.io/badge/TCP/IP-FF4B4B?style=flat-square" />
 
-#### 🗳️ [USA Presidential Elections](https://github.com/pranshulgupta33940/USA-Presidential-Elections)
+####  [USA Presidential Elections](https://github.com/pranshulgupta33940/USA-Presidential-Elections)
 > Data-driven predictive model and statistical analytics engine for modeling US election outcomes.
 > 
 > <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Data_Analytics-00C9FF?style=flat-square" />
 
-#### ⚖️ [Court Clerk](https://github.com/pranshulgupta33940/Court-Clerk)
+####  [Court Clerk](https://github.com/pranshulgupta33940/Court-Clerk)
 > AI-powered legal document processing, summarization, and management system.
 > 
 > <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-0db7ed?style=flat-square" />
 
 ---
 
-### 💻 Arsenal
+###  Arsenal
 
 <div align="center">
-  <b>🌟 AI & Data Analytics</b><br/><br/>
+  <b> AI & Data Analytics</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -66,7 +66,7 @@ I exist at the intersection of **Data Intelligence** and **Backend Systems**. I 
 
 ---
 
-### 📈 GitHub Activity
+###  GitHub Activity
 *(Stats auto-update dynamically)*
 
 <div align="center">
@@ -80,8 +80,7 @@ I exist at the intersection of **Data Intelligence** and **Backend Systems**. I 
 
 <br/>
 
-### 🐍 The GitHub Snake
-*(Eating my contribution graph!)*
+
 
 <div align="center">
   <picture>
